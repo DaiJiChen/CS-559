@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c4e62853-1898-4e91-9065-c73609f9617b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/HW3/NN.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW3/kmeans.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3/CS_559_Machine_Learning_Fundamentals_Stevens-master/BPNNASAS.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW3/NN.py" beforeDir="false" afterPath="$PROJECT_DIR$/HW3/NN.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -41,8 +41,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.kmeans">
-    <configuration name="HW" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.BPNNASAS">
+    <configuration name="BPNNASAS" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="CS 559" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -50,12 +50,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HW3/CS_559_Machine_Learning_Fundamentals_Stevens-master" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HW.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HW3/CS_559_Machine_Learning_Fundamentals_Stevens-master/BPNNASAS.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -86,6 +86,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="NN" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="CS 559" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HW3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HW3/NN.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="kmeans" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="CS 559" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -108,11 +130,35 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="neuralnetwork" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="CS 559" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HW3/CS_559_Machine_Learning_Fundamentals_Stevens-master/hw3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HW3/CS_559_Machine_Learning_Fundamentals_Stevens-master/hw3/neuralnetwork.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.BPNNASAS" />
+        <item itemvalue="Python.neuralnetwork" />
+        <item itemvalue="Python.NN" />
         <item itemvalue="Python.kmeans" />
         <item itemvalue="Python.HW2" />
-        <item itemvalue="Python.HW" />
       </list>
     </recent_temporary>
   </component>
@@ -132,7 +178,7 @@
       <workItem from="1604169247366" duration="8190000" />
       <workItem from="1604262500493" duration="12587000" />
       <workItem from="1606209563728" duration="384000" />
-      <workItem from="1607481029187" duration="4900000" />
+      <workItem from="1607481029187" duration="20238000" />
     </task>
     <servers />
   </component>
@@ -153,8 +199,11 @@
     </option>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/CS_559$neuralnetwork.coverage" NAME="neuralnetwork Coverage Results" MODIFIED="1607491370451" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HW3/CS_559_Machine_Learning_Fundamentals_Stevens-master/hw3" />
+    <SUITE FILE_PATH="coverage/CS_559$BPNNASAS.coverage" NAME="BPNNASAS Coverage Results" MODIFIED="1607503598780" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HW3/CS_559_Machine_Learning_Fundamentals_Stevens-master" />
     <SUITE FILE_PATH="coverage/CS_559$kmeans.coverage" NAME="kmeans Coverage Results" MODIFIED="1607484416515" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HW3" />
     <SUITE FILE_PATH="coverage/CS_559$HW.coverage" NAME="HW Coverage Results" MODIFIED="1601607171335" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/CS_559$NN.coverage" NAME="NN Coverage Results" MODIFIED="1607490651216" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HW3" />
     <SUITE FILE_PATH="coverage/CS_559$HW2.coverage" NAME="HW2 Coverage Results" MODIFIED="1604275405326" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
