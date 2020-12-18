@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c4e62853-1898-4e91-9065-c73609f9617b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HW3/CS_559_Machine_Learning_Fundamentals_Stevens-master/hw3/~$hw3.docx" beforeDir="false" />
-    </list>
+    <list default="true" id="c4e62853-1898-4e91-9065-c73609f9617b" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,7 +22,7 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/OneDrive/Desktop/JichenDai_HW3/NN.py" />
+    <property name="last_opened_file_path" value="$USER_HOME$/OneDrive/Desktop/CS583" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
@@ -178,6 +175,7 @@
       <workItem from="1604262500493" duration="12587000" />
       <workItem from="1606209563728" duration="384000" />
       <workItem from="1607481029187" duration="20450000" />
+      <workItem from="1607826220826" duration="81000" />
     </task>
     <servers />
   </component>
